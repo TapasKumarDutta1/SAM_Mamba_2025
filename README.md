@@ -1,1 +1,1 @@
-# SAM_Mamba_2025
+Mamba-guided polyp segmentation model that enhances SAM's pre-trained representations with polyp-specific priors
