@@ -4,6 +4,7 @@ Mamba-guided polyp segmentation model that enhances SAM's pre-trained representa
 ![alt text](assets/SAM_mamba.png)
 
 
+```markdown
 @arxiv{
   author={Dutta, Tapas Kumar; Majhi, Snehashis; Nayak, Deepak Ranjan; Jha, Debesh},
   booktitle={SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation}, 
