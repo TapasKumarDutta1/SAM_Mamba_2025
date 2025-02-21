@@ -5,7 +5,7 @@ Official implementation of Mamba-guided polyp segmentation model that enhances S
 
 
 ## 🚨 News
-- 24-10-28. Our SAM_Mamba paper is accepted in IEEE/CVF Winter Conference on Applications of Computer Vision 2025
+- 24-10-28. Our SAM_Mamba paper is accepted in IEEE/CVF Winter Conference on Applications of Computer Vision 2025 🥳🥳🥳
 
 ```markdown
 @arxiv{
