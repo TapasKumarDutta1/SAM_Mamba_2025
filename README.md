@@ -4,6 +4,9 @@ Official implementation of Mamba-guided polyp segmentation model that enhances S
 ![alt text](assets/SAM_mamba.png)
 
 
+## 🚨 News
+- 24-10-28. Our SAM_Mamba paper is accepted in IEEE/CVF Winter Conference on Applications of Computer Vision 2025
+
 ```markdown
 @arxiv{
   author={Dutta, Tapas Kumar; Majhi, Snehashis; Nayak, Deepak Ranjan; Jha, Debesh},
